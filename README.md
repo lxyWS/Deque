@@ -1,6 +1,6 @@
 # Deque
 
-SJTU JOHN class's project
+SJTU JOHN class's project deque
 # Deque README
 
 
